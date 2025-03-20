@@ -6,6 +6,7 @@ import Logo from "../../assets/logo.jpg";
 const menuItems = [
   { path: "/about", label: "회사소개" },
   { path: "/products", label: "제품소개" },
+  { path: "/machines", label: "설비보유현황" },
   { path: "/board", label: "알림센터" },
   { path: "/contact", label: "문의하기" },
 ];

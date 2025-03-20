@@ -21,7 +21,7 @@ const ProductList = () => {
     <section className="py-12 bg-white">
       <div className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* 상단 제목 */}
-        <h2 className="text-center text-2xl sm:text-4xl font-bold mb-8">PRODUCTS</h2>
+        <h2 className="text-center text-2xl sm:text-4xl font-bold mb-8">제품소개</h2>
         
         {/* 카드 그리드 */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
